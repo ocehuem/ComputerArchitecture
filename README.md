@@ -29,7 +29,7 @@ Assignment 6: Caches
 
 ---
 
-# 📌 Assignment 4: Pipelined Core Simulator  
+## 📌 Assignment 4: Pipelined Core Simulator  
 
 - Upgraded the ToyRISC simulator to a **5-stage pipelined core model**.  
 - Implemented pipeline stages:  
