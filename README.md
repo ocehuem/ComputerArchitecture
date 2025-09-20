@@ -1,3 +1,6 @@
+Java, Apache Ant, Git, Python (testing scripts), ToyRISC Emulator, Linux CLI
+Developed a series of projects on the ToyRISC ISA, including writing assembly programs, building an assembler, and implementing single-cycle, pipelined, and cache-integrated processor simulators in Java. Enhanced the simulator with discrete-event modeling, hazard handling, and performance analysis (IPC, stalls, cache impact), gaining hands-on experience with computer architecture design and evaluation.
+
 # Computer Architecture Laboratory Projects
 
 This repository contains my work for the **Computer Architecture Laboratory** course, where I progressively developed and enhanced a simulator for the ToyRISC processor.  
